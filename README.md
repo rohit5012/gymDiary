@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-<img width="232" alt="Screenshot 2024-02-15 at 04 11 45" src="https://github.com/rshaarma/rsdev-portfolio/assets/64362564/2f057ac8-2741-44e4-89a9-1ac3ff02b08a">
+<img width="232" alt="Screenshot 2024-02-15 at 04 11 45" src="https://github.com/rshaarma/assets/64362564/2f057ac8-2741-44e4-89a9-1ac3ff02b08a">
 
   <h3 align="center">Welcome to Fitness Application</h3>
 
