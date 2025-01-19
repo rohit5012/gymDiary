@@ -37,10 +37,9 @@
 <img width="1321" alt="Screenshot 2024-02-15 at 03 43 42" src="https://github.com/rshaarma/rsdev-portfolio/assets/64362564/de158193-05ae-4878-8728-7fd9d860ef87">
 <img width="1316" alt="Screenshot 2024-02-15 at 03 42 24" src="https://github.com/rshaarma/rsdev-portfolio/assets/64362564/68c0aedd-7eb4-4dc6-a09d-3d814b86b00e">
 
-This repository contains a web application created for people who want to learn more about the exercises they can do, such as exercises to improve their stamina (cardio exercises) as well as muscle development (weights exercises). Once a workout is selected, the user can see comprehensive details and step by step guidance on how to accomplish the workouts. The live website has been deployed to
+This repository contains a web application created for people who want to learn more about the exercises they can do, such as exercises to improve their stamina (cardio exercises) as well as muscle development (weights exercises). Once a workout is selected, the user can see comprehensive details and step-by-step guidance on how to accomplish the workouts. The live website has been deployed to
 Netlify.
-This project was developed by
-[mattlusty](https://github.com/mattlusty), [Rohit](https://github.com/rshaarma), [MichalLaa](https://github.com/MichalLaa), [Timiwesky](https://github.com/Timiwesky)
+
 
 ## Getting Started
 
